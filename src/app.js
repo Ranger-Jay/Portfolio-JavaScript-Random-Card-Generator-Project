@@ -1,4 +1,4 @@
-/* eslint-disable */
+/* eslint-disable - init commit test origin */
 import "bootstrap";
 import "./style.css";
 
